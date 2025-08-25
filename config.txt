@@ -1,0 +1,14 @@
+git config --global user.name lariesther
+git config --global user.email larissafantinatti24@gmail.com
+
+abrir o terminal -ctrl + "
+
+criar um projeto React Native com Expo
+ npx create-expo-app@latest  ELMusic --template blank
+
+ cd ELMusic
+ npx expo install react-dom react-naitve-web @expo/metro-runtime
+ npx expo install @react-native-community/slider
+ npx expo install expo-av
+
+ npm i
